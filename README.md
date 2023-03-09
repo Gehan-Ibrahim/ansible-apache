@@ -6,5 +6,5 @@
 │   └── main.yml
 ├── README.md
 ├── tasks
-  └── main.yml
+    └── main.yml
 
